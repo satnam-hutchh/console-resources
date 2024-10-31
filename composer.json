@@ -1,0 +1,13 @@
+{
+    "name": "hutchh/consoleresources",
+    "description": "hutchh common console resources",
+    "type": "metapackage",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Hutchh\\Consoleresources\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
