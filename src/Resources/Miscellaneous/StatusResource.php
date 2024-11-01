@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Resources\Miscellaneous;
+namespace Hutchh\Consoleresources\Resources\Miscellaneous;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;

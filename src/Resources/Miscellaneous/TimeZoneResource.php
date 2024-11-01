@@ -1,12 +1,12 @@
 <?php
 
-namespace App\Http\Resources\Miscellaneous;
+namespace Hutchh\Consoleresources\Resources\Miscellaneous;
 
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
 use Illuminate\Support\Facades\Log;
-use Carbon\Carbon;
-use Carbon\CarbonTimeZone;
+use Illuminate\Support\Carbon;
+use Illuminate\Support\CarbonTimeZone;
 
 class TimeZoneResource extends JsonResource
 {
