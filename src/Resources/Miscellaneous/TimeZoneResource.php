@@ -5,8 +5,8 @@ namespace Hutchh\Consoleresources\Resources\Miscellaneous;
 use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\JsonResource;
 use Illuminate\Support\Facades\Log;
-use Illuminate\Support\Carbon;
-use Illuminate\Support\CarbonTimeZone;
+use Carbon\Carbon;
+use Carbon\CarbonTimeZone;
 
 class TimeZoneResource extends JsonResource
 {
